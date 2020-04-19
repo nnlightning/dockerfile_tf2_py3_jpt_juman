@@ -8,13 +8,13 @@
 
 #### コマンドプロントやターミナルを起動して、作成したルートディレクトリに移動
 
-#### docker-compose build で、ビルドする。
+#### docker-compose build で、ビルド
 
 ```ruby:
 docker-compose build
 ```
 
-#### docker-compose up で、コンテナを起動する。
+#### docker-compose up で、コンテナを起動
 
 ```ruby:
 docker-compose up
